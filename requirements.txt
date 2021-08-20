@@ -1,0 +1,4 @@
+requests
+Flask
+Flask-MySQLdb
+flask-jwt-extended
