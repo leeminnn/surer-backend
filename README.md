@@ -48,6 +48,6 @@ Once done click continue and import. Then just press send in orange button.
 
 4. Test for carpark availability
 
-Set method to 'GET' and enter url `'http://0.0.0.0:5000/carpark_availability'`
+Enter `curl --location --request GET 'http://0.0.0.0:5000/carpark_availability' \ --header 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTYyOTIxMzM5NSwianRpIjoiYTJlODU0NGMtMDQ4Ni00N2FiLTk0ZGItNTE1ZDBkYzhmMGFmIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6InRlc3RAdGVzdC5jb20iLCJuYmYiOjE2MjkyMTMzOTUsImV4cCI6MTYyOTIxNDI5NX0.XLl0hbU7Mh6AAhFWgBnUSNN_L2TI3Q8ZtgwW02Hs3Yk'`
 
-Once done click send.
+Once done click continue and import. Then just press send in orange button.
